@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {2}{\textbf {帝皇的崛起}}{4}{0}{1}
+\beamer@subsectionintoc {2}{1}{\textbf {贯穿银河的大远征}}{5}{0}{1}
+\beamer@subsectionintoc {2}{2}{\textbf {荷鲁斯之乱}}{6}{0}{1}
+\beamer@sectionintoc {3}{Results}{8}{0}{2}
+\beamer@subsectionintoc {3}{1}{Empirical comparison of IFD, N-gram GP, and standard GP}{9}{0}{2}
+\beamer@subsectionintoc {3}{2}{Modularity and repeated structures in IFD}{12}{0}{2}
+\beamer@sectionintoc {4}{Conclusions}{13}{0}{3}
