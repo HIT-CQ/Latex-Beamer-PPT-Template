@@ -1,0 +1,93 @@
+%===============================================================================
+% Template Name:      SUnORE Starter Presentation template
+% Template URI:       http://sunore.co.za/sunore-presentation/
+% Description:        Starter Presentation template for SUnORE 
+%                     Department of Industrial Engineering, 
+%                     Stellenbosch University
+% Version:            1.1.0
+% Author:             Johan Janse van Rensburg
+% Author URI:         http://johanjvrens.co.za/
+% License:            MIT License
+% License URI:        http://opensource.org/licenses/MIT
+%===============================================================================
+\documentclass[serif,11pt]{beamer}
+
+%=================================================
+% theme and color
+%=================================================
+\usetheme{Warsaw} %Themes http://www.hartwork.org/beamer-theme-matrix/
+%\definecolor{colorA}{RGB}{96, 34, 59}
+\definecolor{colorA}{RGB}{139,0,0}
+\definecolor{colorB}{RGB}{140, 151, 154}
+%\definecolor{secinhead}{RGB}{249,196,95}
+%\definecolor{titlebg}{RGB}{51,51,51}
+\setbeamercolor{structure}{fg=colorA,bg=colorB}
+%\setbeamercolor{secsubsec}{fg=secinhead,bg=black}
+%\setbeamercolor{frametitle}{fg=secinhead,bg=titlebg}
+
+%=================================================
+% packages and new commands
+%=================================================
+\usepackage[space]{xeCJK}
+\setCJKmainfont{楷体}[BoldFont=黑体]
+\setmainfont{Times New Roman}
+\urlstyle{rm}
+\usepackage[ruled, linesnumbered, vlined]{algorithm2e}
+\usepackage{epsfig, subfigure, amssymb, multirow, algorithmic, amsmath}
+\newcommand*{\superscript}[1]{\ensuremath{^{\rm #1}}}
+\newcommand*{\subscript}[1]{\ensuremath{_{\rm #1}}}
+
+%=================================================
+% thesis details (preamble)
+%=================================================
+% \title[{\sc The short title of your thesis } \hspace{0.8cm}
+\title[{} \hspace{5.2cm} \insertframenumber/\inserttotalframenumber]{{大标题 }}
+\author[大标题 \hspace{18pt} {2024.4.30}]{{雷锋}}
+\date{2024年2月36日}
+\institute{深圳工业大学（哈尔滨） \\ \vspace{7pt} 航天学院\hspace{10pt}XXX研究所}
+
+%=================================================
+% start presentation
+%=================================================
+\begin{document}
+
+%========================
+% title page
+%========================
+\begin{frame}
+  \begin{center}
+    \vspace{0.1cm}
+    \includegraphics[scale=0.20]{HITlogo.png}
+  \end{center}
+  \titlepage
+\end{frame}
+
+%========================
+% your slides:
+%========================
+\input{slides/overview}
+
+%========================
+% example slides:
+%========================
+\input{slides/lists}
+\input{slides/columns}
+\input{slides/figures}
+\input{slides/description}
+\input{slides/table}
+\input{slides/blocks}
+\input{slides/definition}
+\input{slides/example}
+\input{slides/theorem}
+\input{slides/hyperlinks}
+\input{slides/algorithms}
+
+%========================
+% bibliography
+%========================
+\input{slides/bib}
+\input{slides/thanks}
+%=================================================
+% end presentation
+%=================================================
+\end{document}
