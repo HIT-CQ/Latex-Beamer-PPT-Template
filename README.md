@@ -2,11 +2,11 @@
 
 ## 改版预览：
 
-![image-20240730133028991](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730133028991.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a1.png)
 
-![image-20240730133053455](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730133053455.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a2.png)
 
-![image-20240730133115963](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730133115963.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a3.png)
 
 # Tamplate_2
 
@@ -21,8 +21,8 @@
 
 ## 中英混排修改版预览：
 
-![image-20240730134015003](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730134015003.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b1.png)
 
-![image-20240730134032366](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730134032366.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b2.png)
 
-![image-20240730134044554](C:\Users\cao\AppData\Roaming\Typora\typora-user-images\image-20240730134044554.png)
+![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b3.png)
