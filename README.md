@@ -2,11 +2,11 @@
 
 ## 改版预览：
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a1.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a1.png)
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a2.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a2.png)
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a3.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a3.png)
 
 # Tamplate_2
 
@@ -21,8 +21,8 @@
 
 ## 中英混排修改版预览：
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b1.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b1.png)
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b2.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b2.png)
 
-![https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b3.png)
+(https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b3.png)
