@@ -47,3 +47,27 @@
 ![My Imagea2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/d2.png)
 
 ![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/d3.png)
+
+# Tamplate_5_ppt
+
+## 预览：
+
+![My Imagea1](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/e1.png)
+
+![My Imagea2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/e2.png)
+
+![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/e3.png)
+
+![My Imagea4](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/e4.png)
+
+# Tamplate_6_ppt
+
+## 预览：
+
+![My Imagea1](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/f1.png)
+
+![My Imagea2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/f2.png)
+
+![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/f3.png)
+
+![My Imagea4](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/f4.png)
