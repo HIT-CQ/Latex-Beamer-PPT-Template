@@ -1,4 +1,4 @@
-# Tamplate_1
+# Tamplate_1_beamer
 
 ## 改版预览：
 
@@ -8,7 +8,7 @@
 
 ![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/a3.png)
 
-# Tamplate_2
+# Tamplate_2_beamer
 
 ## 原作者：
 
@@ -27,3 +27,23 @@
 ![My Imageb2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b2.png)
 
 ![My Imageb3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/b3.png)
+
+# Tamplate_3_ppt
+
+## 预览：
+
+![My Imagea1](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/c1.png)
+
+![My Imagea2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/c2.png)
+
+![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/c3.png)
+
+# Tamplate_4_ppt
+
+## 预览：
+
+![My Imagea1](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/d1.png)
+
+![My Imagea2](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/d2.png)
+
+![My Imagea3](https://github.com/HIT-CQ/Latex-Beamer-Template/blob/main/images/d3.png)
